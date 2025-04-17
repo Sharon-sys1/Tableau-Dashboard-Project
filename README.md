@@ -1,15 +1,15 @@
 # Tableau Data Visualization Project
 
-## 📋 Project Overview
+## Project Overview
 
 This project showcases an interactive data dashboard built in Tableau. The goal was to take a raw dataset, transform it into clear visual plots, and uncover insights that could support business decision-making. The dashboard is designed to be user-friendly, visually engaging, and analytically valuable.
 
 
-## 🖼 Dashboard Preview
+## Dashboard Preview
 
 - ![Dashboard Screenshot](Dashboard_Overview.png)
 
-## 🎯 Objectives
+## Objectives
 
 - Create a dynamic and interactive Tableau dashboard
 
@@ -19,13 +19,13 @@ This project showcases an interactive data dashboard built in Tableau. The goal 
 
 - Enhance data storytelling through intuitive visual design
 
-## 🛠 Tools & Technologies
+## Tools & Technologies
 
 - Tableau (for dashboard development)
 
 - Excel (for initial data preparation and cleaning)
 
-## 📊 Key Features
+## Key Features
 
 - Interactive Filters: Allow users to explore the data by category, time period, or other dimensions
 
